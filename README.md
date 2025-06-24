@@ -15,7 +15,7 @@ Knowledge distillation solves this by:
 2. **Maintaining Performance**: The student model retains much of the teacher’s accuracy.
 3. **Reducing Costs**: Smaller models are faster, use less memory, and are cheaper to deploy.
 
-**Example**: Imagine you’ve trained a massive neural network to recognize dog breeds in photos with 95% accuracy, but it takes 1 second per image and requires a high-end GPU. By using knowledge distillation, you can train a smaller model that achieves, say, 92% accuracy but runs in 0.1 seconds on a smartphone.
+**Example**: Imagine ’ve trained a massive neural network to recognize dog breeds in photos with 95% accuracy, but it takes 1 second per image and requires a high-end GPU. By using knowledge distillation,  can train a smaller model that achieves, say, 92% accuracy but runs in 0.1 seconds on a smartphone.
 
 ---
 
@@ -156,7 +156,7 @@ While powerful, knowledge distillation has some challenges:
 
 ### **Hands-On Example: Code Walkthrough**
 
-To make this practical, here’s a simplified Python example using PyTorch to perform knowledge distillation for image classification. (Don’t worry if you’re new to coding—this is just to give you a sense of how it’s implemented.)
+To make this practical, here’s a simplified Python example using PyTorch to perform knowledge distillation for image classification. (Don’t worry if ’re new to coding—this is just to give  a sense of how it’s implemented.)
 
 ```python
 import torch
