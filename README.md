@@ -247,7 +247,7 @@ As a beginner, here’s a roadmap to dive deeper into knowledge distillation:
 
 5. **Join Communities**:
    - Engage in forums like Reddit’s r/MachineLearning or X posts tagged with #MachineLearning.
-   - Share your projects and ask for feedback.
+   - Share the projects and ask for feedback.
 
 ---
 
